@@ -1,0 +1,262 @@
+{
+  "people": [
+    {
+      "id": "dvazquez",
+      "name": "Daniel Vazquez",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Daniel.png",
+      "phone": "+52 222 674 4869",
+      "email": "dvazquez@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 222 674 4869",
+      "linkedin": "https://www.linkedin.com/in/daniel-v%C3%A1zquez-calder%C3%B3n-051b939b/",
+      "location": "https://www.google.com/maps/place/Av+Oaxaca+86,+Roma+Nte.,+Cuauht%C3%A9moc,+06700+Ciudad+de+M%C3%A9xico,+CDMX/@19.4188849,-99.171951,17z/data=!3m1!4b1!4m7!3m6!1s0x85d1ff380e1c3c7f:0xa4c5cbbc896c112e!8m2!3d19.418885!4d-99.1670801!15sCtMGaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3BsYWNlL0F2K09heGFjYSs4NiwrUm9tYStOdGUuLCtDdWF1aHQlQzMlQTltb2MsKzA2NzAwK0NpdWRhZCtkZStNJUMzJUE5eGljbywrQ0RNWC9AMTkuNDE4ODg0OSwtOTkuMTcxOTUxLDE3ei9kYXRhPSEzbTEhNGIxITRtMTAhMW0yITJtMSExemFIUjBjSE02THk5M2QzY3VaMjl2WjJ4bExtTnZiUzl0WVhCekwzQnNZV05sTDBGMkswOWhlR0ZqWVNzNE5pd3JVbTl0WVN0T2RHVXVMQ3REZFdGMWFIUWxRek1sUVRsdGIyTXNLekEyTnpBd0swTnBkV1JoWkN0a1pTdE5KVU16SlVFNWVHbGpieXdyUTBSTldDOWtZWFJoUFNFMGJUSWhNMjB4SVRGek1IZzROV1F4Wm1Zek9EQmxNV016WXpkbU9qQjRZVFJqTldOaVltTTRPVFpqTVRFeVpUOXpZVDFZSm5abFpEMHhkRG95TkRJbWFXTjBlRDB4TVRFITNtNiExczB4ODVkMWZmMzgwZTFjM2M3ZjoweGE0YzVjYmJjODk2YzExMmUhOG0yITNkMTkuNDE4ODg1ITRkLTk5LjE2NzA4MDEhMTVzQ3J3QmFIUjBjSE02THk5M2QzY3VaMjl2WjJ4bExtTnZiUzl0WVhCekwzQnNZV05sTDBGMkswOWhlR0ZqWVNzNE5pd3JVbTl0WVN0T2RHVXVMQ3REZFdGMWFIUWxRek1sUVRsdGIyTXNLekEyTnpBd0swTnBkV1JoWkN0a1pTdE5KVU16SlVFNWVHbGpieXdyUTBSTldDOWtZWFJoUFNFMGJUSWhNMjB4SVRGek1IZzROV1F4Wm1Zek9EQmxNV016WXpkbU9qQjRZVFJqTldOaVltTTRPVFpqTVRFeVpUOXpZVDFZSm5abFpEMHhkRG95TkRJbWFXTjBlRDB4TVRFaUE0Z0JBWklCQ25OMVluQnlaVzFwYzJYZ0FRQSExNnMlMkZnJTJGMTFubnN5OXA4eD9lbnRyeT10dHUmZ19lcD1FZ295TURJMU1Ea3hNQzR3SUtYTURTb0FTQUZRQXclM0QlM0QiA4gBAZIBCnN1YnByZW1pc2XgAQA!16s%2Fg%2F11nnsy9p8x?entry=tts&g_ep=EgoyMDI1MDkxMC4wIPu8ASoASAFQAw%3D%3D&skid=a849ba57-aec9-4270-85e8-aab04d728e26"
+    },
+    {
+      "id": "gorozco",
+      "name": "Giovannie Orozco",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Giovannie.png",
+      "phone": "+52 55 7331 9995",
+      "email": "gorozco@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 55 7331 9995",
+      "linkedin": "https://www.linkedin.com/in/giovannie-orozco-hernandez-622b2146/",
+      "location": "https://www.google.com/maps/place/Av+Oaxaca+86,+Roma+Nte.,+Cuauht%C3%A9moc,+06700+Ciudad+de+M%C3%A9xico,+CDMX/@19.4188849,-99.171951,17z/data=!3m1!4b1!4m7!3m6!1s0x85d1ff380e1c3c7f:0xa4c5cbbc896c112e!8m2!3d19.418885!4d-99.1670801!15sCtMGaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3BsYWNlL0F2K09heGFjYSs4NiwrUm9tYStOdGUuLCtDdWF1aHQlQzMlQTltb2MsKzA2NzAwK0NpdWRhZCtkZStNJUMzJUE5eGljbywrQ0RNWC9AMTkuNDE4ODg0OSwtOTkuMTcxOTUxLDE3ei9kYXRhPSEzbTEhNGIxITRtMTAhMW0yITJtMSExemFIUjBjSE02THk5M2QzY3VaMjl2WjJ4bExtTnZiUzl0WVhCekwzQnNZV05sTDBGMkswOWhlR0ZqWVNzNE5pd3JVbTl0WVN0T2RHVXVMQ3REZFdGMWFIUWxRek1sUVRsdGIyTXNLekEyTnpBd0swTnBkV1JoWkN0a1pTdE5KVU16SlVFNWVHbGpieXdyUTBSTldDOWtZWFJoUFNFMGJUSWhNMjB4SVRGek1IZzROV1F4Wm1Zek9EQmxNV016WXpkbU9qQjRZVFJqTldOaVltTTRPVFpqTVRFeVpUOXpZVDFZSm5abFpEMHhkRG95TkRJbWFXTjBlRDB4TVRFITNtNiExczB4ODVkMWZmMzgwZTFjM2M3ZjoweGE0YzVjYmJjODk2YzExMmUhOG0yITNkMTkuNDE4ODg1ITRkLTk5LjE2NzA4MDEhMTVzQ3J3QmFIUjBjSE02THk5M2QzY3VaMjl2WjJ4bExtTnZiUzl0WVhCekwzQnNZV05sTDBGMkswOWhlR0ZqWVNzNE5pd3JVbTl0WVN0T2RHVXVMQ3REZFdGMWFIUWxRek1sUVRsdGIyTXNLekEyTnpBd0swTnBkV1JoWkN0a1pTdE5KVU16SlVFNWVHbGpieXdyUTBSTldDOWtZWFJoUFNFMGJUSWhNMjB4SVRGek1IZzROV1F4Wm1Zek9EQmxNV016WXpkbU9qQjRZVFJqTldOaVltTTRPVFpqTVRFeVpUOXpZVDFZSm5abFpEMHhkRG95TkRJbWFXTjBlRDB4TVRFaUE0Z0JBWklCQ25OMVluQnlaVzFwYzJYZ0FRQSExNnMlMkZnJTJGMTFubnN5OXA4eD9lbnRyeT10dHUmZ19lcD1FZ295TURJMU1Ea3hNQzR3SUtYTURTb0FTQUZRQXclM0QlM0QiA4gBAZIBCnN1YnByZW1pc2XgAQA!16s%2Fg%2F11nnsy9p8x?entry=tts&g_ep=EgoyMDI1MDkxMC4wIPu8ASoASAFQAw%3D%3D&skid=a849ba57-aec9-4270-85e8-aab04d728e26"
+    },
+    {
+      "id": "gfernandez",
+      "name": "Gonzalo Fernandez",
+      "title": "CEO",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Gonzalo.png",
+      "phone": "+1 305 613 1878",
+      "email": "gfernandez@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+1 305 613 1878",
+      "linkedin": "https://www.linkedin.com/in/gonzalofcq/",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "mtinajero",
+      "name": "Manuel Tinajero",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Manuel.png",
+      "phone": "+52 477 548 7111",
+      "email": "mtinajero@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 477 548 7111",
+      "wechat": "weixin://dl/chat?wxid_0u9syb552hnr12",
+      "linkedin": "https://www.linkedin.com/in/manueltinajerolule/",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "cdigenova",
+      "name": "Claudio Di Genova",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Claudio.png",
+      "phone": "+54 9 112507 3743",
+      "email": "cdigenova@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+54 9 112507 3743",
+      "linkedin": "https://www.linkedin.com/in/claudio-di-genova-16242572/",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "amartinez",
+      "name": "Alan Martinez",
+      "title": "Operations Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Alan.png",
+      "phone": "+52 232 197 9972",
+      "email": "amartinez@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 232 197 9972",
+      "linkedin": "https://www.linkedin.com/in/alan-alberto-martinez-salas-8000912a1",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "lvasquez",
+      "name": "Luis Angel Vazquez",
+      "title": "Data Analyst",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Luis.png",
+      "phone": "52 232 157 5824",
+      "email": "lvazquez@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "+522321575824",
+      "linkedin": "https://www.linkedin.com/in/luisangelvasquez/",
+      "location": "https://maps.app.goo.gl/RnoYazAXffELuiXQ6",
+      "calendar": "https://meet.jasu.us/lvasquez/appointments"
+    },
+    {
+      "id": "vlanda",
+      "name": "Veronica Landa",
+      "title": "Customer Services",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Vero.png",
+      "phone": "+52 232 110 6157",
+      "email": "cs3@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 232 110 6157",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "gcesareo",
+      "name": "Gabriela Cesareo",
+      "title": "Customer Services",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Gaby.png",
+      "phone": "+52 232 143 8822",
+      "email": "cs2@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 232 143 8822",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "davila",
+      "name": "Dulce Avila",
+      "title": "Customer Services",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Dulce.png",
+      "phone": "+52 954 165 0781",
+      "email": "cs1@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 954 165 0781",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "cpaniagua",
+      "name": "Christian Paniagua",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Christian.png",
+      "phone": "+52 55 2081 8385",
+      "email": "cpaniagua@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+52 55 2081 8385",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "snikolaidis",
+      "name": "Spyridion Nikolaidis",
+      "title": "Commercial Manager",
+      "address": "50 W Mashta Dr. Suite 4, Key Biscayne, FL, 33149",
+      "profileImage": "https://assets.jasu.us/profile_images/Spyros.png",
+      "phone": "+30 694 444 2995",
+      "email": "snikolaidis@jasu.us",
+      "website": "https://www.jasu.us",
+      "whatsapp": "+30 694 444 2995",
+      "linkedin": "https://www.linkedin.com/in/spyridon-nikolaidis-b-a-mba-6055916/",
+      "location": "https://www.google.com/maps/place/50+W+Mashta+Dr+%234,+Key+Biscayne,+FL+33149,+EE.+UU./data=!4m2!3m1!1s0x88d9ca6ab8a3d907:0x1b17093aaf058c14?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "id": "malonso",
+      "name": "Angeles Alonso",
+      "title": "CFO",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Angeles.png",
+      "phone": "+5217866931072",
+      "email": "malonso@jasu.us",
+      "website": "https://jasu.us/en",
+      
+      "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-de-los-%C3%A1ngeles-a-1266a5162/",
+      "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
+    },
+    {
+      "id": "mmonzalvo",
+      "name": "Maribel Monzalvo",
+      "title": "Administrative",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Maribel.png",
+      "phone": "+525536556305",
+      "email": "mmonzalvo@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": " 52 55 3655 6305",
+      
+      "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
+    },
+    {
+      "id": "asanchez",
+      "name": "Ana Sanchez",
+      "title": "Jr. Accountant",
+      "address": "Av. Maximiliano, Mariano Abasolo C/Esq, Ávila Camacho, Centro, 93600 Martínez de la Torre, Ver.",
+      "profileImage": "https://assets.jasu.us/profile_images/Ana.png",
+      "phone": "+522324399617",
+      "email": "asanchez@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "+522324399617",
+      
+      "location": "https://maps.app.goo.gl/RnoYazAXffELuiXQ6"
+    },
+    {
+      "id": "mguerrero",
+      "name": "Mariela Guerrero",
+      "title": "Marketing Manager",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Mariela.png",
+      "phone": "+525621916799",
+      "email": "mguerrero@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "+525621916799",
+      "linkedin": "https://www.linkedin.com/in/mar-guerrero-0917b518b/",
+      "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
+    },
+    {
+      "id": "jlara",
+      "name": "Jairzinho Lara",
+      "title": "Quality",
+      "address": "Carretera Federal Nautla-México K61+450 93643 Martinez de la Torre, Ver.",
+      "profileImage": "https://assets.jasu.us/profile_images/Jairzinho.png",
+      "phone": "+522325936354",
+      "email": "quality@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "+522325936354",
+      
+      "location": ""
+    },
+    {
+      "id": "ctorres",
+      "name": "Cristobal Torres",
+      "title": "Accounting",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Cristobal.png",
+      "phone": "+13053633066",
+      "email": "ctorres@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "52 735 169 1405",
+      
+      "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
+    },
+    {
+      "id": "ahernandez",
+      "name": "Abel Hernandez",
+      "title": "MKT Assistant",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Abel.png",
+      "phone": "+525544868872",
+      "email": "ahernandez@jasu.us",
+      "website": "https://jasu.us/en",
+      "whatsapp": "+525544868872",
+      "linkedin": "https://www.linkedin.com/in/abel-hernandez-005577232/",
+      "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
+    },
+    {
+      "id": "fcontreras",
+      "name": "Fabiola Contreras",
+      "title": "Account Receivable",
+      "address": "Av Oaxaca 86, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+      "profileImage": "https://assets.jasu.us/profile_images/Fabiola.png",
+      "phone": "+5217862065063",
+      "email": "fcontreras@jasu.us",
+      "website": "https://jasu.us/en",
+      
+      
+      "location": "https://maps.app.goo.gl/RnoYazAXffELuiXQ6"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+.contact-buttons {
+  margin: 24px 0;
+}
+
+.contact-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.contact-row:last-child {
+  margin-bottom: 0;
+}
+
+.contact-btn {
+  width: 60px;
+  padding: 10px;
+  height: 60px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  color: var(--white);
+}
+
+.contact-btn.primary {
+  background: var(--primary-green);
+}
+
+.contact-btn.primary:hover {
+  background: var(--light-green);
+  transform: scale(1.1);
+}
+
+.contact-btn.whatsapp {
+  background: #25D366;
+}
+
+.contact-btn.whatsapp:hover {
+  background: #20BA5A;
+  transform: scale(1.1);
+}
+
+.contact-btn.wechat {
+  background: #1aad19;
+}
+
+.contact-btn.wechat:hover {
+  background: #139112;
+  transform: scale(1.1);
+}
+
+.icon-wechat {
+  width: 34px;
+  height: 34px;
+  display: inline-block;
+}
+
+.contact-btn.linkedin {
+  background: #0077B5;
+}
+
+.contact-btn.linkedin:hover {
+  background: #005885;
+  transform: scale(1.1);
+}
+
+.contact-btn:active {
+  transform: scale(0.95);
+}
+
+.contact-btn.calendar {
+  background: var(--primary-green); /* Color de fondo */
+  color: #fff;                     /* Color del ícono */
+}
+
+.contact-btn.calendar:hover {
+  background: var(--light-green);  /* Hover opcional */
+  transform: scale(1.1);
+}
+
+.contact-btn.calendar:active {
+  transform: scale(0.95);
+}
+
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contact-btn {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .contact-row {
+    gap: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-btn {
+    width: 54px;
+    height: 54px;
+  }
+  
+  .contact-row {
+    gap: 12px;
+  }
+}
+
+.material-symbols-rounded.icon-lg {
+  font-size: 35px;  /* Ajusta el tamaño */
+}
+
+.icon-linkedin {
+  width: 30px;
+  height: 30px;
+  fill: #0A66C2; /* Azul oficial LinkedIn */
+  vertical-align: middle;
+  cursor: pointer; /* Opcional */
+}
+
+.icon-whatsapp {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  vertical-align: middle;
+}
+

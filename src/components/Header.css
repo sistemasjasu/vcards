@@ -1,0 +1,91 @@
+/* Header.css — centrado real con contenedor cuadrado + nudge óptico */
+:root {
+  /* Ajusta este valor si lo ves ligeramente arriba/abajo */
+  --logo-nudge: -3px; /* valores típicos: -2px a -6px */
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr auto;  /* logo | botón */
+  align-items: center;
+  height: 64px;                     /* altura explícita */
+  padding: 0 12px;
+  margin-bottom: 30px;
+  box-sizing: border-box;
+  line-height: 1;
+}
+
+.logo-container {
+  /* cuadrado del alto del header para centrar ópticamente */
+  display: grid;
+  place-items: center start;        /* centrado vertical, izquierda horizontal */
+  height: 100%;                     /* igual al header */
+  width: auto;
+}
+
+.logo {
+  /* ocupar altura completa del contenedor cuadrado */
+  height: 44px;                     /* parejo con el botón */
+  width: auto;
+  display: block;                   /* sin baseline */
+  object-fit: contain;              /* respeta proporción */
+  object-position: center;          /* centro geométrico */
+  transform: translateY(var(--logo-nudge)); /* corrección óptica */
+  margin: 0;
+  padding: 0;
+}
+
+.share-btn {
+  background: var(--primary-green);
+  color: var(--white);
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.share-btn:hover {
+  background: var(--light-green);
+  transform: scale(1.05);
+}
+
+.share-btn:active {
+  transform: scale(0.95);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header {
+    height: 56px;
+    margin-bottom: 25px;
+  }
+
+  .logo {
+    height: 40px;
+  }
+
+  .share-btn {
+    width: 45px;
+    height: 45px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header {
+    height: 52px;
+    margin-bottom: 20px;
+  }
+
+  .logo {
+    height: 36px;
+  }
+
+  .share-btn {
+    width: 40px;
+    height: 40px;
+  }
+}
