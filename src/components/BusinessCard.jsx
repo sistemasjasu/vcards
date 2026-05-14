@@ -49,7 +49,6 @@ const BusinessCard = ({ person }) => {
         alert('Enlace copiado al portapapeles');
       });
     } else {
-      // Fallback para navegadores más antiguos
       const textArea = document.createElement('textarea');
       textArea.value = currentUrl;
       document.body.appendChild(textArea);
@@ -63,15 +62,26 @@ const BusinessCard = ({ person }) => {
   return (
     <div className="business-card">
       <Header onShare={handleShare} />
+      
+     
       <ProfileSection person={person} />
+      
       <div className="separator" />
+      
       <button className="save-contact-btn" onClick={handleSaveContact}>
-      <span className="material-symbols-rounded" aria-hidden="true">person_add</span>
+        <span className="material-symbols-rounded" aria-hidden="true">person_add</span>
         Save contact
       </button>
+      
       <ContactButtons person={person} />
+      
       <div className="separator" />
+      
       <QRCode url={currentUrl} filename={`${person.id || "jasu"}-qr`} />
+
+
+
+
     </div>
   );
 };
