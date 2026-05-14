@@ -8,6 +8,8 @@ const ProfileSection = ({ person }) => {
           src={person.profileImage} 
           alt={person.name}
           className="profile-image"
+          referrerPolicy="no-referrer" 
+          crossOrigin="anonymous"
         />
       </div>
       <h1 className="name">{person.name}</h1>

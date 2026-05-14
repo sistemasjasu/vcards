@@ -163,7 +163,6 @@
       "phone": "+5217866931072",
       "email": "malonso@jasu.us",
       "website": "https://jasu.us/en",
-      
       "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-de-los-%C3%A1ngeles-a-1266a5162/",
       "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
     },
@@ -177,7 +176,6 @@
       "email": "mmonzalvo@jasu.us",
       "website": "https://jasu.us/en",
       "whatsapp": " 52 55 3655 6305",
-      
       "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
     },
     {
@@ -190,7 +188,6 @@
       "email": "asanchez@jasu.us",
       "website": "https://jasu.us/en",
       "whatsapp": "+522324399617",
-      
       "location": "https://maps.app.goo.gl/RnoYazAXffELuiXQ6"
     },
     {
@@ -216,7 +213,6 @@
       "email": "quality@jasu.us",
       "website": "https://jasu.us/en",
       "whatsapp": "+522325936354",
-      
       "location": ""
     },
     {
@@ -229,7 +225,6 @@
       "email": "ctorres@jasu.us",
       "website": "https://jasu.us/en",
       "whatsapp": "52 735 169 1405",
-      
       "location": "https://maps.app.goo.gl/ByJYBZegaMcxbkyB7"
     },
     {
@@ -254,9 +249,20 @@
       "phone": "+5217862065063",
       "email": "fcontreras@jasu.us",
       "website": "https://jasu.us/en",
-      
-      
       "location": "https://maps.app.goo.gl/RnoYazAXffELuiXQ6"
+    },
+    {
+      "name": "Jorge Luis Uribe Peña",
+      "title": "Ti",
+      "email": "juribe@jasu.us",
+      "website": "https://jasu.us/en",
+      "address": "Conocido",
+      "linkedin": "https://mx.linkedin.com/?mcid=7000592715335761922&src=go-pa&trk=sem-ga_campid.19001150288_asid.143806640876_crid.694479389938_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9132271&cid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=19001150288&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xMRw7sddEk2U040SFSEdm-TTHyjPn-GboXLd6K6kSfNcBDkr7IpG64aAuU2EALw_wcB",
+      "location": "https://maps.app.goo.gl/nDbayHHaDiU2RYd89",
+      "id": "juribe",
+      "profileImage": "https://lh3.googleusercontent.com/d/1WSA1pVVsaW7gFrxNQ9xCUQa0yf_rpZoI",
+      "phone": "+52 2251093503",
+      "whatsapp": "+52 2251093503"
     }
   ]
 }

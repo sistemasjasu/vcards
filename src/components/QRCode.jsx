@@ -8,7 +8,7 @@ const BG = "#FFFFFF";     // fondo
 const CELL = 6;           // px por módulo
 const MARGIN_MOD = 2;     // quiet zone en módulos
 const LOGO_SIZE = 38;     // px logo
-const LOGO_URL = "https://assets.jasu.us/logos/jasu-sheet.png";
+const LOGO_URL = "/jasu-sheet.png";
 const DOWNLOAD_SIZE = 1000;
 const XLINK_NS = "http://www.w3.org/1999/xlink";
 
