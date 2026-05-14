@@ -102,6 +102,14 @@ npm run preview
   - `http://142.93.251.147:4200/lvasquez`
 - **Tip**: Haz doble clic (o doble tap) en el QR para descargarlo como PNG 1000×1000 px.
 
+
+
+### Nuevas URLs
+
+- **Edicion de tarjetas existentes**: `http://142.93.251.147:4200/editar` o `http://localhost:4200/editar`.
+
+- **Creacion de tarjetas nueva**: `http://142.93.251.147:4200/crear` o `http://localhost:4200/crear`.
+
 ## 🏭 Producción
 
 ### 1. Construir para producción
