@@ -31,6 +31,18 @@ function getTimestamp() {
   return new Date().toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
 }
 
+function phoneLines(person) {
+  const p = person?.phone ? formatPhone(person.phone) : "";
+  const w = person?.whatsapp ? formatPhone(person.whatsapp) : "";
+  if (!p && !w) return [];
+  if (p && w && p.replace(/\D/g, "") !== w.replace(/\D/g, "")) {
+    return [`TEL;WORK;VOICE:${p}`, `TEL;CELL:${w}`];
+  }
+  if (p) return [`TEL;TYPE=CELL:${p}`];
+  if (w) return [`TEL;TYPE=CELL:${w}`];
+  return [];
+}
+
 export function generateVCard(person) {
   const full = String(person?.name || "").trim();
   const parts = full.split(/\s+/);
@@ -49,8 +61,7 @@ export function generateVCard(person) {
     person?.title ? `ORG:${esc(person.title)}` : null,
     // Título/Cargo
     person?.title ? `TITLE:${esc(person.title)}` : null,
-    // Teléfono con formato simple para vCard 2.1
-    person?.phone ? `TEL;TYPE=CELL:${formatPhone(person.phone)}` : null,
+    ...phoneLines(person),
     // Email simple
     person?.email ? `EMAIL;TYPE=WORK:${esc(person.email)}` : null,
     // Dirección

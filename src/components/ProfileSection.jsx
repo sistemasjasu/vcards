@@ -1,6 +1,13 @@
 import './ProfileSection.css';
 
+const digitsOnly = (v) => String(v ?? "").replace(/\D/g, "");
+
 const ProfileSection = ({ person }) => {
+  const showMobile =
+    person.whatsapp &&
+    person.phone &&
+    digitsOnly(person.whatsapp) !== digitsOnly(person.phone);
+
   return (
     <div className="profile-section">
       <div className="profile-image-container">
@@ -11,9 +18,14 @@ const ProfileSection = ({ person }) => {
         />
       </div>
       <h1 className="name">{person.name}</h1>
-      <h2 className="title"><strong>{person.title}</strong></h2>
+      {person.title?.trim() ? (
+        <h2 className="title"><strong>{person.title}</strong></h2>
+      ) : null}
       <p className="address"><strong>Office:</strong> {person.address}</p>
       <p className="address"><strong>Phone:</strong> {person.phone}</p>
+      {showMobile ? (
+        <p className="address"><strong>Mobile:</strong> {person.whatsapp}</p>
+      ) : null}
       <p className="address"><strong>Email:</strong> {person.email}</p>
     </div>
   );
