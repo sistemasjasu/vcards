@@ -111,6 +111,7 @@ app.post('/api/subir-imagen', upload.single('imagen'), async (req, res) => {
 // RUTA 2: LEER (GET)
 // ==========================================
 app.get("/api/registros", (req, res) => {
+  res.set("Cache-Control", "no-store");
   if (fs.existsSync(DB_FILE)) {
     try {
       res.json(JSON.parse(fs.readFileSync(DB_FILE, "utf-8")));
